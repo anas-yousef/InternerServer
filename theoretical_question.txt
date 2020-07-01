@@ -1,0 +1,14 @@
+a)
+pro: It does not need any server connection, therefore getting your token won't be bounded
+by having Internet connection (if you are on a plane for instance).
+
+con: There might be a situation where your token must be updated to a new token (by the people 
+behind the server) for some reason, and if you don't ask the server for updates every time 
+you log-in, you would be using an unidentified token.
+
+b)
+pro: You would always be up to date since there might be a change in your token by the people
+behind the server (if they decided to use a token of 20 letters and not 15...)
+
+con: You would always need to be connected to the Internet and have access to their server API
+which, sometimes, you won't always have.
